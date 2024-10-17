@@ -5,7 +5,7 @@ go 1.15
 require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/brancz/kube-rbac-proxy v0.8.0
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.2+incompatible
 	github.com/evanphx/json-patch/v5 v5.5.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-kit/log v0.1.0
